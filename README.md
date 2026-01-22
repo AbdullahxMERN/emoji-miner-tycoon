@@ -25,7 +25,7 @@ A fun, addictive **clicker game** built with **React** and **Tailwind CSS** usin
 ## 🚀 Live Demo
 
 Play the game online:  
-[🎮 Emoji Miner Tycoon Live]https://emoji-miner-tycoon-game.vercel.app
+[🎮 Emoji Miner Tycoon Live]https://emoji-miner-tycoon-game.vercel.app/
 
 
 
