@@ -12,12 +12,15 @@ function App() {
 
 
   return (
+    <div className='h-screen overflow-y-auto'>
     <Provider>
+
       <UseDash/>
       <UseMG/>
        <UseMar/>
 
     </Provider>
+    </div>
   )
 }
 
