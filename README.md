@@ -1,4 +1,5 @@
 # Emoji Miner Tycoon 🪨💰
+#Main use is context api
 
 A fun, addictive **clicker game** built with **React** and **Tailwind CSS** using **Vite**. Mine rocks, sell them for gold, and upgrade your pickaxe to mine faster.
 
